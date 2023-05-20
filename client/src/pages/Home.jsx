@@ -70,7 +70,7 @@ const Home = () => {
         </p>
 
         <h3 className="mt-2 text-[#FF0000] text-[16px] max-w[500px]">
-          Currently I removed Open AI API KEY to avoid misuse. Feel free to clone from GitHub and try with another key you have.
+        Currently, I have removed the Open AI API key to avoid misuse. Feel free to clone from GitHub and try it with another key you have.
         </h3>
 
       </div>
